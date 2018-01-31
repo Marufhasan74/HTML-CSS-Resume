@@ -1,1 +1,54 @@
 /* Your CSS styles go here */
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: green;
+    color: lightblue;
+    
+}
+
+
+h1 {
+    color: green;
+    text-align: center;
+    background-color: white;
+}
+h2 {
+    color: green;
+    text-align: center;
+}
+h3 {
+    color: green;
+    
+}
+h4 {
+    color: green;
+    
+}
+h5 {
+    color: green;
+    
+}
+
+p {
+	color: blue;
+    font-family: verdana;
+    font-size: 20px;
+}
+table, th, td {
+	color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+form{
+	color: green;
+}
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
